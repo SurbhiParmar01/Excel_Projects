@@ -153,6 +153,6 @@ Six pivot charts visualize the table summaries for the dashboard layer, connecte
 
 ## Connect
 
-**Portfolio:** [surbhiparmar01.github.io](https://surbhiparmar01.github.io)
+**Portfolio:** [surbhiparmar01.github.io](https://surbhiparmar01.github.io/SurbhiParmarPortfolio/)
 **LinkedIn:** [linkedin.com/in/surbhiparmar](https://www.linkedin.com/in/surbhiparmar/)
 **GitHub:** [github.com/SurbhiParmar01](https://github.com/SurbhiParmar01)
