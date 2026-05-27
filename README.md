@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Excel
 
-![Dashboard Preview](assets/img/Excel/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 > **IT pays the most but performs the least. Marketing is burning out. Overtime has near-zero effect on performance.**
 > This dashboard was built to surface workforce problems that aggregate reports miss - and recommend actions HR can take immediately.
