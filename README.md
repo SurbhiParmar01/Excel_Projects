@@ -142,28 +142,6 @@ Six pivot charts visualize the table summaries for the dashboard layer, connecte
 
 ---
 
-## Project Structure
-
-```
-HR-Analytics-Dashboard/
-│
-├── HR_Analytics_Dashboard.xlsx    # Main Excel file with dashboard, pivot tables, and charts
-├── assets/
-│   └── img/
-│       ├── Dashboard.png
-│       ├── HeatMap.png
-│       ├── Dept_Efficiency.png
-│       ├── OT_vs_Performance.png
-│       ├── Salary_Attendance_Correlation.png
-│       ├── Average_Attendance.png
-│       ├── Employee_Count.png
-│       ├── Gender_Distribution.png
-│       └── Monthly_Salary_per_Department.png
-└── README.md
-```
-
----
-
 ## How to Use
 
 1. Download `HR_Analytics_Dashboard.xlsx`
