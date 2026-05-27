@@ -125,7 +125,7 @@ Six pivot charts visualize the table summaries for the dashboard layer, connecte
 **Action:** Run a workload distribution audit. Introduce flex days or quarterly no-overtime weeks.
 **Metric to track:** Overtime vs absenteeism correlation and monthly attrition within Marketing.
 
-### 3. Sales: Loyal but Underpaid — Retention Risk
+### 3. Sales: Loyal but Underpaid - Retention Risk
 **Problem:** Highest attendance (89.07%) at only $71,225 avg salary - engaged but financially vulnerable to outside offers.
 **Action:** Identify top 10% of sales performers, benchmark against market rates, design targeted retention package.
 **Metric to track:** Voluntary attrition among top 20% sales performers.
@@ -135,7 +135,7 @@ Six pivot charts visualize the table summaries for the dashboard layer, connecte
 **Action:** Replace hours-based metrics with outcome-driven KPIs. Identify top 10 repetitive tasks driving overtime.
 **Metric to track:** Overtime cost per unit of output.
 
-### 5. HR: High Performance at Scale — Worth Replicating
+### 5. HR: High Performance at Scale - Worth Replicating
 **Finding:** Largest team (27) with highest performance rating (3.04) - HR's systems are working.
 **Action:** Document HR's highest-impact processes and pilot them in IT - the highest-cost, lowest-performing department.
 **Metric to track:** Performance rating delta in pilot department vs baseline over 90 days.
